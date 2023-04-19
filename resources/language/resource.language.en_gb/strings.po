@@ -10,7 +10,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en\n"
+"Language: hi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 
@@ -37,7 +37,7 @@ msgid "Subtitle Language"
 msgstr ""
 
 msgctxt "#30021"
-msgid "English (US)"
+msgid "Hindi"
 msgstr ""
 
 msgctxt "#30022"
